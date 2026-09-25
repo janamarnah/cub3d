@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <siwhusse>, <jalamarn>.*
+*This project has been created as part of the 42 curriculum by siwhusse, jalamarn*
 
 # cub3D
 
